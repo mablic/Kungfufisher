@@ -1,0 +1,28 @@
+Cold launch 1: PID 5325
+Starting: Intent { cmp=com.mablic.kungfufisher/.MainActivity }
+Status: ok
+LaunchState: COLD
+Activity: com.mablic.kungfufisher/.MainActivity
+TotalTime: 1140
+WaitTime: 1159
+Complete
+
+Cold launch 2: PID 5388
+Starting: Intent { cmp=com.mablic.kungfufisher/.MainActivity }
+Status: ok
+LaunchState: COLD
+Activity: com.mablic.kungfufisher/.MainActivity
+TotalTime: 838
+WaitTime: 847
+Complete
+
+Cold launch 3: PID 5445
+Starting: Intent { cmp=com.mablic.kungfufisher/.MainActivity }
+Status: ok
+LaunchState: COLD
+Activity: com.mablic.kungfufisher/.MainActivity
+TotalTime: 577
+WaitTime: 589
+Complete
+
+Crash buffer:

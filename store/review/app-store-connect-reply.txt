@@ -1,0 +1,41 @@
+Hello App Review Team,
+
+Thank you for your message. Please find the requested information below.
+
+Kung Fu Fisher — Requested App Review Information
+Bundle ID: com.mablic.kungfufisher
+
+1. Physical-device screen recording
+Video: [INSERT PUBLICLY ACCESSIBLE RECORDING LINK OR ATTACHED FILE NAME]
+Physical device: [IPHONE MODEL]
+iOS: [ACTUAL VERSION — VERIFY THE DEVICE IS UPDATED]
+Submitted app version/build: [VERSION AND BUILD]
+
+The video must begin on the iPhone Home Screen and show launching the submitted app, normal fishing, a martial-arts manual and special cast, the guide, pause/resume, and the results/retry flow. There are no registration, login, account deletion, user-generated content, or paid-content flows, as these features are not offered.
+
+2. Purpose and target audience
+Kung Fu Fisher is a single-player arcade fishing game inspired by Chinese wuxia, for casual players who enjoy short aiming, timing, and score challenges. It provides entertainment through catching fish, building combos, collecting martial-arts techniques, and earning stars and seals across 42 levels in seven themed regions. It is an entertainment app rather than a professional service.
+
+3. Setup and access to main features
+No account, credentials, sample files, or extra hardware are required.
+- Launch and tap Begin fishing (or Continue), then Cast off.
+- Hold underwater to charge, drag to aim, and release to cast. Catch fish to reach the score target. Earn one star to unlock the next level.
+- Strike a floating martial-arts manual to equip a technique for three casts. The equipment badge displays remaining uses.
+- Tap ? to pause and open the Fish, Skills, Rivers, and About guide. Pause/resume is also available through the pause control.
+- At the end of an eligible run, an optional rewarded ad can grant 15 additional seconds, once per run. The button enables when an ad is ready. Unavailable or skipped ads do not block free retries or ordinary progression.
+Core gameplay works offline; ads require internet access. Progress and settings are saved locally. There are no in-app purchases or subscriptions. Reviewers and customers use the same release progression.
+
+4. External services, tools, and platforms
+Google AdMob provides optional rewarded ads; Google User Messaging Platform handles applicable consent/privacy forms. The current iOS configuration requests non-personalized ads, disables publisher first-party ID and publisher personalization, and does not request ATT authorization. Core gameplay and local saves run on-device. There are no authentication, payment, external game-data, or runtime AI services. Expo/React Native and Skia implement the client; EAS is used for building/distribution.
+
+5. Regional differences
+English game text, core mechanics, levels, and free progression are consistent across supported regions. Ad availability and consent forms can vary by region, connectivity, device settings, and inventory. These variations do not restrict ordinary gameplay or free retries.
+
+6. Regulated industries and protected third-party material
+The app does not provide regulated financial, medical, or real-money gambling services. In-game scores and stars have no monetary value. Artwork includes AI-assisted assets and original vector illustrations; bundled music and effects are procedurally synthesized. Cormorant Garamond is used under the SIL Open Font License, retained in the project and accessible in the in-app About guide. Asset-provenance information is available in the accompanying project documentation.
+
+Support: mablic@hotmail.com
+Support website: https://tradepartner.fyi/kungfu-fisher/support
+Privacy policy: https://tradepartner.fyi/kungfu-fisher/privacy
+
+Thank you for reviewing Kung Fu Fisher.

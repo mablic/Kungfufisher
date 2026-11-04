@@ -1,0 +1,2 @@
+Local versionCode 7 AAB SHA-256: 4c2e768dd12f6eaf0d1ee8cff0a7e259e00b7998bc83efde570a123dbf4e54ee
+Android 13 / API 33 arm64 emulator; optimized AAB converted using bundletool 1.18.3 and debug-signed only for local installation.

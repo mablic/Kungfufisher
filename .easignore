@@ -1,0 +1,36 @@
+# Local dependencies / generated native projects (EAS runs Expo Prebuild).
+node_modules
+/ios
+/android
+/.git
+/.expo
+/build
+/dist
+/work
+/FishGame
+.DS_Store
+*.xcuserstate
+xcuserdata
+__pycache__
+
+# Store artwork, QA captures and source-only tooling are not runtime assets.
+/store
+/docs
+/tests
+/coverage
+/assets/branding/logo-master.png
+/assets/branding/promo-master.png
+/assets/branding/PROMPTS.md
+*.log
+*.zip
+*.tar.gz
+
+# Never upload local credentials or environment files.
+.env
+.env.*
+!.env.example
+credentials.json
+*.p12
+*.mobileprovision
+*.keystore
+*.jks

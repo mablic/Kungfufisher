@@ -1,0 +1,49 @@
+{
+  "environment": "iPhone 17 Pro simulator, iOS 26.5, Expo Go development build",
+  "scenario": "Synthetic level 29; alternate Lotus Wheel and Heavenly Swords every 12 simulated seconds, charge for 650 ms, attempt a cast every 1700 ms.",
+  "caveat": "Sequential diagnostic windows, not a controlled physical-device benchmark. Before and after world states were not identical. Does not establish zero stutter or battery/thermal behavior.",
+  "before": [
+    {
+      "fps": 57.5,
+      "p95": 16.7,
+      "p99": 33.3,
+      "over34": 4,
+      "frames": 600,
+      "seconds": 10.4
+    },
+    {
+      "fps": 57.5,
+      "p95": 16.7,
+      "p99": 33.3,
+      "over34": 3,
+      "frames": 600,
+      "seconds": 10.4
+    }
+  ],
+  "after": [
+    {
+      "fps": 58.8,
+      "p95": 16.7,
+      "p99": 16.7,
+      "over34": 1,
+      "frames": 600,
+      "seconds": 10.2
+    },
+    {
+      "fps": 59.6,
+      "p95": 16.7,
+      "p99": 16.7,
+      "over34": 0,
+      "frames": 600,
+      "seconds": 10.1
+    },
+    {
+      "fps": 59.7,
+      "p95": 16.7,
+      "p99": 16.7,
+      "over34": 2,
+      "frames": 600,
+      "seconds": 10.1
+    }
+  ]
+}

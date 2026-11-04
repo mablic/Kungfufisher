@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="512" viewBox="0 0 1024 512">
+<defs>
+<linearGradient id="s" x1="0%" y1="0%" x2="0%" y2="100%"><stop stop-color="#ead7f6"/><stop offset=".4" stop-color="#ac77b4"/><stop offset="1" stop-color="#452655"/></linearGradient>
+<linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="80%"><stop stop-color="#fff0b4"/><stop offset=".4" stop-color="#d49a44"/><stop offset="1" stop-color="#73522b"/></linearGradient>
+</defs>
+<!-- Right-facing squid: mantle, triangular fins, eye and curling arms. -->
+<g stroke="#64426e" stroke-width="5" stroke-linejoin="round">
+<path d="M58 253 Q101 132 249 198 L312 250 L247 306 Q115 367 58 253" fill="url(#s)"/>
+<path d="M85 253 Q159 183 320 219 Q354 252 320 285 Q172 320 85 253" fill="url(#s)"/>
+<g fill="none" stroke="#bd96cb" stroke-width="12" stroke-linecap="round">
+<path d="M320 229 Q383 193 430 219 T474 203"/><path d="M332 244 Q408 227 455 250 T483 235"/>
+<path d="M330 262 Q379 266 421 293 T477 279"/><path d="M316 278 Q362 311 399 306 T449 331"/>
+</g>
+<path d="M112 249 Q207 220 278 240" fill="none" stroke="#f2dff3" stroke-width="7"/>
+<ellipse cx="311" cy="242" rx="20" ry="25" fill="#eee8d0"/><ellipse cx="318" cy="242" rx="10" ry="16" fill="#182d36"/><circle cx="321" cy="235" r="4" fill="white"/>
+<g fill="#ddbbdf" stroke="none"><circle cx="177" cy="268" r="5"/><circle cx="205" cy="258" r="4"/><circle cx="230" cy="272" r="5"/><circle cx="251" cy="250" r="3"/></g>
+</g>
+<!-- Upright seahorse, right-facing snout, armored trunk and curled tail. -->
+<g transform="translate(512 0)" stroke="#79532b" stroke-width="5" stroke-linejoin="round">
+<path d="M240 121 L219 96 L242 98 L253 73 L268 94 L287 83 L291 110 Q327 114 335 147 L385 160 L384 180 L329 178 Q308 192 307 219 Q322 259 297 300 Q273 333 261 356 Q246 392 280 399 Q308 405 311 384 Q309 366 290 372" fill="url(#g)"/>
+<path d="M240 121 Q208 148 224 179 Q245 204 231 235 Q202 272 222 315 Q244 339 234 365 Q217 419 274 430 Q328 435 337 391 Q340 352 305 345 Q286 342 275 358 Q275 329 304 303 Q339 267 315 222 Q310 202 329 178" fill="url(#g)"/>
+<path d="M226 233 Q172 250 214 290 Q232 273 226 233" fill="#e9be77" opacity=".85"/>
+<path d="M239 131 Q246 180 271 198 Q286 231 264 277 Q243 306 251 327" fill="none" stroke="#ffe6a3" stroke-width="10"/>
+<g fill="none" stroke="#9d7239" stroke-width="4"><path d="M237 207 L307 219 M228 234 L316 243 M218 264 L317 269 M222 294 L301 296 M239 318 L279 323"/></g>
+<ellipse cx="295" cy="145" rx="15" ry="18" fill="#fff1d2"/><ellipse cx="299" cy="146" rx="8" ry="12" fill="#172f33"/><circle cx="302" cy="140" r="3" fill="white"/>
+<path d="M344 174 L382 174" fill="none" stroke="#9b6a32"/>
+</g>
+</svg>

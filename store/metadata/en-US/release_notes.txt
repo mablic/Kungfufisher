@@ -1,0 +1,7 @@
+- Added 12 levels, two coastal chapters, and four large species including sharks.
+- Rebalanced all 42 levels, with a Trial every third stage.
+- Improved frame-loop stability, background recovery, and multi-hit performance.
+- Added a recovery prompt that restarts an interrupted run while keeping completed-level records.
+- Added an About page with offline gameplay, optional ads, privacy information, and support contact.
+- Completed the field guide descriptions for all seven regions.
+- Added seven original wuxia-inspired background music themes, one for each region.

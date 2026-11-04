@@ -1,0 +1,6 @@
+androidx.work.impl.WorkDatabase_Impl:
+    private volatile androidx.work.impl.model.RawWorkInfoDao _rawWorkInfoDao
+    public void <init>()
+    public void clearAllTables()
+    protected androidx.room.InvalidationTracker createInvalidationTracker()
+    public androidx.work.impl.model.RawWorkInfoDao rawWorkInfoDao()
